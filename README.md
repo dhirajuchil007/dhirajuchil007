@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhiraj</h1>
-<h3 align="center">Mobile App Developer | Native Android | Flutter</h3>
+<h3 align="center">Mobile App Developer | Native Android | Kotlin Multiplatform |Flutter</h3>
 
 - 🔭 I’m currently working on **Coffice - A flutter app to book co-working spaces near you** <a href="https://github.com/dhirajuchil007/Coffice-Owner-app">Link</a>
 
 - 📌 Featured Repo: <a href="https://github.com/dhirajuchil007/GithubUserSearch">Github User Search with MVVM Clean Architecture</a>
 
-- 🌱 I’m currently learning **Jetpack Compose, KMM, Flutter**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform, Flutter**
 
 - 💬 Ask me about **Android app development, Flutter, Jetpack compose**
 
